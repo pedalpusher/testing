@@ -1,7 +1,7 @@
 function makeplots
 
 x=1:1:100;
-y=sin(x);
+y=sin(2*x);
 z=cos(2*x);
 
 figure(1);
